@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "500px" height="200px" align = right>
+<img src = "banner.gif" width = "500px" align = right>
 
 # Seja bem vindo!
 
