@@ -13,9 +13,9 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br>
 
-<div align = "left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacn&show_icons=true&theme=radical&count_private=true"/>
-  <img width="" align="right" src="https://github-readme-stats.vercel.app/api?username=luizacn&show_icons=true&show_icons=true&theme=radical&count_private=true" />
-</div><br>
+
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacn&show_icons=true&theme=radical&count_private=true"/>-->
+  <img width=""  src="https://github-readme-stats.vercel.app/api?username=luizacn&show_icons=true&show_icons=true&theme=radical&count_private=true" />
+<br>
 
 Buscando conhecimento na área de tecnologia, desenvolvimento web e programação!
