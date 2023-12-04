@@ -15,7 +15,7 @@
 
 <div align = "left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacn&show_icons=true&theme=radical&count_private=true"/>
-  <img width="500px" align="right" src="https://github-readme-stats.vercel.app/api?username=luizacn&show_icons=true&show_icons=true&theme=radical&count_private=true" />
+  <img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=luizacn&show_icons=true&show_icons=true&theme=radical&count_private=true" />
 </div><br>
 
 Buscando conhecimento na área de tecnologia, desenvolvimento web e programação!
